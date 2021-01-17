@@ -14,7 +14,7 @@ print(fruits)
 
 # จงเพิ่ม "lemon" ไประหว่าง "apple" กับ "ิิbananna"
 fruits = ["apple", "banana", "cherry"]
-fruits.add("lemon"[1])
+fruits.append("lemon"[1])
 print(fruits)
 
 # จงลบ "cherry" จาก list
