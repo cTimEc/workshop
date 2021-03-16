@@ -1,7 +1,3 @@
-from _typeshed import SupportsReadline
-from typing import AsyncGenerator
-
-
 class Person:
     def __int__(self, name, age, address):
         self.name = name
@@ -21,7 +17,7 @@ class Person:
         return {"name": self.name, "age": self.age}
 
 
-name = "Sadtawas Kudchapant"
+name = "kongyod janthana"
 age = 21
 address = "Thailand"
 
